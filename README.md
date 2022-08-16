@@ -12,4 +12,5 @@ your in selection mode and a rectangle is placed on the tips of your index and m
 When only the index finger is up you are in drawing mode and can draw on your live webcam feed.
 
 Author: Vish Chaudhary
+
 Github: https://github.com/VishChaudhary
